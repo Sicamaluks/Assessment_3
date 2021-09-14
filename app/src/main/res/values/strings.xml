@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assessment_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_home">Home</string>
+    <string name="watch">Watch Now</string>
+    <string name="originals">Originals</string>
+    <string name="library">Library</string>
+    <string name="search">Search Shows</string>
+    <string name="truthbetold">Truth Be Told: S1, Ep1</string>
+    <string name="liseysstory">Lisey\'s Story: S1, Ep1</string>
+    <string name="Servant">Servant: S1, Ep1</string>
+    <string name="see">See: S1, Ep1</string>
+</resources>
